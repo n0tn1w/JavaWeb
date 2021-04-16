@@ -1,0 +1,44 @@
+com/ex/FitApp/models/entities/BaseEntity.java
+ com.ex.FitApp.models.entities.BaseEntity
+com/ex/FitApp/web/UserController.java
+ com.ex.FitApp.web.UserController
+com/ex/FitApp/models/entities/WorkoutEntity.java
+ com.ex.FitApp.models.entities.WorkoutEntity
+com/ex/FitApp/models/entities/ExerciseEntity.java
+ com.ex.FitApp.models.entities.ExerciseEntity
+com/ex/FitApp/models/entities/enums/BodyType.java
+ com.ex.FitApp.models.entities.enums.BodyType
+com/ex/FitApp/repositories/ExerciseRepository.java
+ com.ex.FitApp.repositories.ExerciseRepository
+com/ex/FitApp/services/WorkoutService.java
+ com.ex.FitApp.services.WorkoutService
+com/ex/FitApp/services/UserService.java
+ com.ex.FitApp.services.UserService
+com/ex/FitApp/repositories/WorkoutRepository.java
+ com.ex.FitApp.repositories.WorkoutRepository
+com/ex/FitApp/models/entities/enums/UserRole.java
+ com.ex.FitApp.models.entities.enums.UserRole
+com/ex/FitApp/services/impl/ExerciseServiceImpl.java
+ com.ex.FitApp.services.impl.ExerciseServiceImpl
+com/ex/FitApp/repositories/UserRoleRepository.java
+ com.ex.FitApp.repositories.UserRoleRepository
+com/ex/FitApp/models/entities/UserRoleEntity.java
+ com.ex.FitApp.models.entities.UserRoleEntity
+com/ex/FitApp/services/impl/WorkoutServiceImpl.java
+ com.ex.FitApp.services.impl.WorkoutServiceImpl
+com/ex/FitApp/FitAppApplication.java
+ com.ex.FitApp.FitAppApplication
+com/ex/FitApp/models/entities/UserEntity.java
+ com.ex.FitApp.models.entities.UserEntity
+com/ex/FitApp/repositories/UserRepository.java
+ com.ex.FitApp.repositories.UserRepository
+com/ex/FitApp/services/impl/UserServiceImpl.java
+ com.ex.FitApp.services.impl.UserServiceImpl
+com/ex/FitApp/services/ExerciseService.java
+ com.ex.FitApp.services.ExerciseService
+com/ex/FitApp/web/HomeController.java
+ com.ex.FitApp.web.HomeController
+com/ex/FitApp/config/AppConfig.java
+ com.ex.FitApp.config.AppConfig
+com/ex/FitApp/config/AppSecurityConfig.java
+ com.ex.FitApp.config.AppSecurityConfig
