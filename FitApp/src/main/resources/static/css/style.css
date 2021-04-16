@@ -1,0 +1,63 @@
+
+nav{
+    background-color: rgb(46,134,253);
+}
+
+.my-index-div {
+    min-height: 56.6vh;
+    max-height: 100%;
+}
+
+main {
+    min-height: 90.2vh;
+}
+
+/*.my-register-div {*/
+/*    min-height: 85.5vh;*/
+/*    max-height: 100%;*/
+/*}*/
+
+footer {
+    position: absolute;
+    width: 100%;
+    background-color: rgba(228,92,92,0.7);
+}
+
+.bg-blur {
+    background-color: rgb(192,192,192);
+    font-weight: bold;
+    z-index: 2;
+    width: 100%;
+}
+
+body {
+    background-image: url(/images/background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+}
+
+#all-articles-jumbotron {
+    background-image: url("/images/instruments.jpg");
+    background-position: center;
+}
+
+input:valid {
+    border: lawngreen solid 2px;
+}
+
+input:invalid{
+    border: red solid 2px;
+}
+
+input:invalid:required{
+    background-image: linear-gradient(to right, rgb(214,234,248), rgb(46,134,253));
+}
+
+h2{
+    font-size: 2.5rem;
+}
+
+
+
